@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ace123lord
-- 👀 I’m interested in Github
-- 🌱 I’m currently learning this
-- 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me ,qq: 2914687285
+- 👋 Hi, I’m @ace123lord.
+- 👀 I’m interested in Github.
+- 🌱 I’m currently learning this.
+- 💞️ I’m looking to collaborate on Github.
+- 📫 How to reach me ,qq: 2914687285.
 
 <!---
 ace123lord/ace123lord is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
